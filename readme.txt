@@ -1,0 +1,1 @@
+Please check index.php header for more info.
